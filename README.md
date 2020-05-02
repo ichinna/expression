@@ -1,11 +1,13 @@
-# expression
+# Expression
 A library to interpret the SQL where clause into various serialized objects as per the need.
 
 Gives different representation or serialized objects based on the where expression.
 
 
 ## Usecase
-I have a where clause, I want to convert it to Hubspot filter as describe here https://developers.hubspot.com/docs/api/crm/search
+1. I have a where clause, I want to convert it into Hubspot `filterGroups` as describe here in [Hubspot docs](https://developers.hubspot.com/docs/api/crm/search)
+
+2. In another case, I want to conver a where clause to Magento `searchCriteria` as describe here in [Magento docs](https://devdocs.magento.com/guides/v2.2/rest/performing-searches.html)
 
 >> Note that this library won't convert the where clause to hubspot filters.  But gives necessary tools to interpret where clause to whatever format a user want to transform or convert to.
 
@@ -20,7 +22,6 @@ I have a where clause, I want to convert it to Hubspot filter as describe here h
 3. Parenthesis Expression
     ```
     Ex: (firstName = 'Chinna' and lastName = 'Chello') or age > 25
-
 
 ## Operators
 ```
