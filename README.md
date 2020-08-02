@@ -1,4 +1,4 @@
-[![Chinna's github stats](https://github-readme-stats.vercel.app/api?username=ichinna)](https://github.com/anuraghazra/github-readme-stats)
+[![Chinna's github stats](https://github-readme-stats.vercel.app/api?username=ichinna&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Expression
 A library to interpret the SQL where clause into various serialized objects as per the need.
