@@ -1,3 +1,5 @@
+[![Chinna's github stats](https://github-readme-stats.vercel.app/api?username=ichinna)](https://github.com/anuraghazra/github-readme-stats)
+
 # Expression
 A library to interpret the SQL where clause into various serialized objects as per the need.
 
@@ -43,4 +45,4 @@ Gives different representation or serialized objects based on the where expressi
     SIMILARTO("SIMILAR TO")
 
 
-[![Chinna's github stats](https://github-readme-stats.vercel.app/api?username=ichinna)](https://github.com/anuraghazra/github-readme-stats)
+
