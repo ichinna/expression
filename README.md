@@ -41,3 +41,6 @@ Gives different representation or serialized objects based on the where expressi
     ISNULL("IS NULL")
     ISNOTNULL("IS NOT NULL")
     SIMILARTO("SIMILAR TO")
+
+
+[![Chinna's github stats](https://github-readme-stats.vercel.app/api?username=ichinna)](https://github.com/anuraghazra/github-readme-stats)
